@@ -1,0 +1,19 @@
+.zoom{
+    position: sticky;
+    top: 20vh;
+    will-change: 100%;
+    width: 100%;
+    transform: scale(2.2);
+}
+
+.bottom{
+    height: 100vh;
+}
+
+.top{
+    height: 80vh;
+}
+
+.wrap{
+    height: 200vh;
+}
